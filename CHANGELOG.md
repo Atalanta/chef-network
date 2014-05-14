@@ -6,6 +6,11 @@ This file is used to list changes made in each version of network.
 
 * Initial release of network
 
+## 0.2.0:
+
+* Separate repo
+* Berkshelf and Test Kitchen support
+
 - - - 
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
 
